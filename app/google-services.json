@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659162182380",
+    "firebase_url": "https://choukai-tasuku.firebaseio.com",
+    "project_id": "choukai-tasuku",
+    "storage_bucket": "choukai-tasuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659162182380:android:70a095914ad6adf4",
+        "android_client_info": {
+          "package_name": "vn.thucld.hdugo2jp.choukaitasuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659162182380-3aotk249iubjmvvpsopj84compjue99m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFx3bUXVlaJ8Kjck8gFQcI_emsP9dvxBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
